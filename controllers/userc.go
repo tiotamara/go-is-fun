@@ -2,8 +2,8 @@ package controllers
 
 import (
     "fmt"
-    util "workshop/TaskListGo/utils"
-    "workshop/TaskListGo/models"
+    util "step4/TaskListGo/utils"
+    "step4/TaskListGo/models"
     "net/http"
     "encoding/json"
 )

@@ -3,7 +3,7 @@ package models
 import (
     "github.com/jinzhu/gorm"
     "fmt"
-    util "workshop/TaskListGo/utils"
+    util "step4/TaskListGo/utils"
 )
 
 type Todo struct {

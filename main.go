@@ -1,8 +1,8 @@
 package main
 
 import (
-	"workshop/TaskListGo/controllers"
-	"workshop/TaskListGo/middleware"
+	"step4/TaskListGo/controllers"
+	"step4/TaskListGo/middleware"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"log"
