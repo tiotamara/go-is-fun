@@ -10,11 +10,11 @@ Wonderdeal apps
 
 REQUIREMENTS
 -----------------------
-* Local
+Local
 > - Go Server
 > - Mysql
 
-* Live with
+Live with
 > - Heroku
 
 ----------
