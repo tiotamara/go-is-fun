@@ -3,7 +3,7 @@ package models
 import (
     "github.com/jinzhu/gorm"
     "golang.org/x/crypto/bcrypt"
-    util "step4/TaskListGo/utils"
+    util "project.golang/studycrud/TaskListGo/utils"
     jwt "github.com/dgrijalva/jwt-go"
     "strings"
     "os"

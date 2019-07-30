@@ -2,8 +2,8 @@ package controllers
 
 import (
     "fmt"
-    util "step4/TaskListGo/utils"
-    "step4/TaskListGo/models"
+    util "project.golang/studycrud/TaskListGo/utils"
+    "project.golang/studycrud/TaskListGo/models"
     "net/http"
     "encoding/json"
 )

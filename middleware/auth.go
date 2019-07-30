@@ -6,9 +6,9 @@ import (
     "os"
     "context"
     "fmt"
-    util "step4/TaskListGo/utils"
+    util "project.golang/studycrud/TaskListGo/utils"
     "strings"
-    "step4/TaskListGo/models"
+    "project.golang/studycrud/TaskListGo/models"
 )
 
 var JwtAuthentication = func(next http.Handler) http.Handler {

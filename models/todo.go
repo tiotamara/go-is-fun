@@ -3,7 +3,7 @@ package models
 import (
     "github.com/jinzhu/gorm"
     "fmt"
-    util "step4/TaskListGo/utils"
+    util "project.golang/studycrud/TaskListGo/utils"
 )
 
 type Todo struct {
@@ -21,6 +21,7 @@ func GetToDo() ([]*Todo) {
         fmt.Println(err)
         return nil
     }
+    fmt.Println(todos);
 
     return todos
 }

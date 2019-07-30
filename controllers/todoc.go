@@ -4,8 +4,8 @@ import (
     "fmt"
     "github.com/gorilla/mux"
     "net/http"
-    "step4/TaskListGo/models"
-    util "step4/TaskListGo/utils"
+    "project.golang/studycrud/TaskListGo/models"
+    util "project.golang/studycrud/TaskListGo/utils"
     "strconv"
     "encoding/json"
 )

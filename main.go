@@ -1,8 +1,8 @@
 package main
 
 import (
-	"step4/TaskListGo/controllers"
-	"step4/TaskListGo/middleware"
+	"project.golang/studycrud/TaskListGo/controllers"
+	"project.golang/studycrud/TaskListGo/middleware"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"log"
@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	port := os.Getenv("PORT")
+	port := os.Getenv("PORT_local")
 	if port == "" {
         log.Fatal("$PORT must be set")
     }
