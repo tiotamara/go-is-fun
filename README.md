@@ -3,7 +3,7 @@ Wonderdeal apps
 
 * Since : July, 15 2019
 * Author : TioTam <<tiotamara@gmail.com>>
-* Copyright : 2017 PT. Maju Mundur Syantik
+* Copyright : 2019 PT. Maju Mundur Syantik
 
 ----------
 
