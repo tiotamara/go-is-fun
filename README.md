@@ -1,4 +1,4 @@
-Wonderdeal apps
+Go fun
 ========================
 
 * Since : July, 15 2019
